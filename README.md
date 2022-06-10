@@ -1,16 +1,14 @@
-### Hi there 👋
+你好！我是g2nnyS
 
-<!--
-**g2nnyS/g2nnyS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AKA** 咸鱼味的鸽子
 
-Here are some ideas to get you started:
+PAF Network | 工程与工厂网络 负责人
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+via me:
+Email: XianYuPigeon@protonmail.com
+
+![](https://github-readme-stats.vercel.app/api?username=g2nnyS&include_all_commits=true&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
+
+Tips:这里的图片是随机的
+
+![](https://api.pafworld.top/genshin)
