@@ -11,6 +11,6 @@ Email: XianYuPigeon@protonmail.com
 
 我永远喜欢甘雨！
 
-![](https://api.pafworld.top/genshin](https://files.pafworld.top/image/98742802_p0_master1200.jpg)
+![](https://files.pafworld.top/image/98742802_p0_master1200.jpg)
 
 Pixiv ID:98742802
