@@ -9,8 +9,8 @@ Email: XianYuPigeon@protonmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=g2nnyS&include_all_commits=true&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
 
-我永远喜欢甘雨！
+I forever love Ganyu!!!
 
-![](https://files.pafworld.top/image/98742802_p0_master1200.jpg)
+![](https://files.pafworld.top/image/98551737_p0.jpg)
 
-Pixiv ID:98742802
+Pixiv ID:98551737
