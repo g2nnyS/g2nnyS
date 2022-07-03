@@ -5,7 +5,10 @@
 PAF Network | 工程与工厂网络 负责人
 
 via me:
+
 Email: XianYuPigeon@protonmail.com
+
+Telegram:[@GenshinImpactGanyuBot](https://t.me/GenshinImpactGanyuBot)
 
 ![](https://github-readme-stats.vercel.app/api?username=g2nnyS&include_all_commits=true&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
 
