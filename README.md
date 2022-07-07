@@ -10,6 +10,8 @@ Email: XianYuPigeon@protonmail.com
 
 Telegram:[@GenshinImpactGanyuBot](https://t.me/GenshinImpactGanyuBot)
 
+QQ:758320181
+
 ## 访问Projects And Factory Network
 
 网站:https://www.pafworld.top/
