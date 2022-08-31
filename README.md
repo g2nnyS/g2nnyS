@@ -28,8 +28,3 @@ QQ群:885274631
 
 ![](https://github-readme-stats.vercel.app/api?username=g2nnyS&include_all_commits=true&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
 
-I forever love Ganyu!!!
-
-![](https://files.pafworld.top/image/98551737_p0.jpg)
-
-Pixiv ID:98551737
