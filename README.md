@@ -6,9 +6,9 @@ Projects And Factory Network | 工程与工厂网络 负责人
 
 via me:
 
-Email: XianYuPigeon@protonmail.com
+Email: master@pafworld.top(优先找这个，我看到了自然会回复)
 
-Telegram:[@GenshinImpactGanyuBot](https://t.me/GenshinImpactGanyuBot)
+Telegram:[@Ganyu_Genshin](https://t.me/Ganyu_Genshin)
 
 QQ:758320181
 
