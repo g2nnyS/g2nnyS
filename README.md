@@ -10,7 +10,7 @@ Email: master@pafworld.top(优先找这个，我看到了自然会回复)
 
 Telegram:[@Ganyu_Genshin](https://t.me/Ganyu_Genshin)
 
-QQ:758320181
+QQ:758320181(不常上)
 
 ## 访问Projects And Factory Network
 
