@@ -4,6 +4,10 @@
 
 Projects And Factory Network | 工程与工厂网络 负责人
 
+个人博客: https://blog.xypigeon.ink
+
+Telegram频道: wang_xiaomei.t.me
+
 via me:
 
 Email: master@pafworld.top(优先找这个，我看到了自然会回复)
