@@ -32,3 +32,6 @@ QQ群:885274631
 
 ![](https://github-readme-stats.vercel.app/api?username=g2nnyS&include_all_commits=true&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
 
+#### 访客数量（从2022/12/6起）
+![](https://count.getloli.com/get/@g2nnyS?theme=rule34)
+
