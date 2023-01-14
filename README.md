@@ -4,6 +4,8 @@
 
 Projects And Factory Network | 工程与工厂网络 负责人
 
+兴趣开发/中度游戏玩家
+
 个人博客: https://blog.xypigeon.ink
 
 Telegram频道: [@Wang_Xiaomei](https://t.me/Wang_Xiaomei)
