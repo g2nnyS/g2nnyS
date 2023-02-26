@@ -35,3 +35,6 @@ QQ群:885274631
 #### 访问次数（从2022/12/6起）
 ![](https://count.getloli.com/get/@g2nnyS?theme=rule34)
 
+---
+![wife](https://github.com/g2nnyS/g2nnyS/wife.png)
+
