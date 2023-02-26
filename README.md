@@ -36,5 +36,5 @@ QQ群:885274631
 ![](https://count.getloli.com/get/@g2nnyS?theme=rule34)
 
 ---
-![wife](https://github.com/g2nnyS/g2nnyS/wife.png)
+![wife](https://github.com/g2nnyS/g2nnyS/blob/main/wife.png)
 
