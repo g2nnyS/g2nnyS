@@ -99,7 +99,7 @@ cpcsY1rKygysdJBx2qf8P1Ri7TpKb6RxTg5C21JMAap8h5s+4ujHdbKwJfY=
 
 - Python学习 机器学习方向研究
 - Project Digital Life(数字生命计划)(画饼中)
-- Akasha Terminal(虚空终端)(目前没头绪)
+- Akasha Terminal 2(虚空终端第二代)(目前没头绪)
 
 ---
 
