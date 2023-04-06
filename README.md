@@ -2,7 +2,7 @@
 
 **AKA** 咸鱼味的鸽子
 
-Projects And Factory Network | 工程与工厂网络 负责人
+Projects And Factory Group 负责人
 
 个人博客: https://blog.xypigeon.ink
 
