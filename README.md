@@ -10,7 +10,7 @@ Telegram频道: [@Wang_Xiaomei](https://t.me.Wang_Xiaomei)
 
 via me:
 
-Email: master@pafworld.top(优先找这个，我看到了自然会回复)
+Email: master@pafgroup.org(优先找这个，我看到了自然会回复)
 
 Telegram:[@Ganyu_Genshin](https://t.me/Ganyu_Genshin)
 
