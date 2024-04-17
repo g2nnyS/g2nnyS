@@ -4,6 +4,10 @@
 
 Projects And Factory Group 负责人
 
+**重要事项/Attention:** 我因精神问题已长期停止开发活动，有事请直接从该页面的联系方式联系我。/ Due to mental health issues, I have ceased development activities for an extended period. For any inquiries, please contact me directly via the contact information on this page.
+
+
+
 个人博客: https://blog.xypigeon.ink
 
 Telegram频道: [@Wang_Xiaomei](https://t.me.Wang_Xiaomei)
