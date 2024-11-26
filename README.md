@@ -1,14 +1,7 @@
-你好！我是g2nnyS
+我是王小美
 
-**AKA** 咸鱼味的鸽子
+业余电台呼号:BD7PVQ
 
-Projects And Factory Group 负责人
-
-**重要事项/Attention:** 我因精神问题已长期停止开发活动，有事请直接从该页面的联系方式联系我。/ Due to mental health issues, I have ceased development activities for an extended period. For any inquiries, please contact me directly via the contact information on this page.
-
-
-
-个人博客: https://blog.xypigeon.ink
 
 Telegram频道: [@Wang_Xiaomei](https://t.me.Wang_Xiaomei)
 
@@ -97,13 +90,6 @@ Zg6xFJ7UZ0/YgNKYBm2YrFg9zd7bKrzOSSarBVZxpIs+hYHkANfiJdeguM5KPw9k
 cpcsY1rKygysdJBx2qf8P1Ri7TpKb6RxTg5C21JMAap8h5s+4ujHdbKwJfY=
 =A+lK
 -----END PGP PUBLIC KEY BLOCK----- 
-```
-
-## 计划
-
-- Python学习 机器学习方向研究
-- Project Digital Life(数字生命计划)(画饼中)
-- Akasha Terminal 2(虚空终端第二代)(目前没头绪)
 
 ---
 
