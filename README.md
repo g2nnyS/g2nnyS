@@ -90,7 +90,7 @@ Zg6xFJ7UZ0/YgNKYBm2YrFg9zd7bKrzOSSarBVZxpIs+hYHkANfiJdeguM5KPw9k
 cpcsY1rKygysdJBx2qf8P1Ri7TpKb6RxTg5C21JMAap8h5s+4ujHdbKwJfY=
 =A+lK
 -----END PGP PUBLIC KEY BLOCK----- 
-
+```
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=g2nnyS&include_all_commits=true&bg_color=30,AFA2FF,F4AFB4&title_color=fff&text_color=fff)
