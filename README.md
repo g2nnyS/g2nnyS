@@ -11,7 +11,7 @@ Email: i@ganyu.rocks(优先找这个，我看到了自然会回复)
 
 Telegram:[@Ganyu_Genshin](https://t.me/Ganyu_Genshin)
 
-[![Tokens Stats](https://tokens.ci/api/embed/g2nnyS/svg?view=3d&sort=cost)](https://tokens.ci/u/g2nnyS)
+[![Tokens Stats](https://tokens.ci/api/embed/g2nnyS/svg?view=3d&sort=cost&compact=1)](https://tokens.ci/u/g2nnyS)
 
 GPG 公钥:
 
