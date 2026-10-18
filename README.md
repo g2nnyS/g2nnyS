@@ -1,17 +1,17 @@
 我是王小美
 
-业余电台呼号:BD7PVQ
+业余电台BD7PVQ
 
 
 Telegram频道: [@Wang_Xiaomei](https://t.me.Wang_Xiaomei)
 
 via me:
 
-Email: master@pafgroup.org(优先找这个，我看到了自然会回复)
+Email: i@ganyu.rocks(优先找这个，我看到了自然会回复)
 
 Telegram:[@Ganyu_Genshin](https://t.me/Ganyu_Genshin)
 
-QQ:758320181(不常上)
+[![Tokens Stats](https://tokens.ci/api/embed/g2nnyS/svg?view=3d&sort=cost)](https://tokens.ci/u/g2nnyS)
 
 GPG 公钥:
 
